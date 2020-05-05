@@ -1,10 +1,10 @@
 baseURL = "http://waaaaall.com"
-languageCode = "en-ja"
+languageCode = "en-us"
 title = "waaaaall's page"
 theme = "dimension"
 
 [build]
-publish = “public”
+publish = "public"
 command = "hugo --theme=dimension --buildDrafts --gc --minify"
 
 [context.production.environment]
