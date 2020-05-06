@@ -1,4 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Waaaaall's Site"
-theme = "dimension"
+baseURL = "http://waaaaall.com/"
+languageCode = "ja-jp"
+title = "waaaaall"
+theme = "hello-friend"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
