@@ -1,6 +1,12 @@
 baseURL = "http://waaaaall.com/"
 languageCode = "ja-jp"
 title = "waaaaall"
+author = "waaaaall"
+description = "description"
 theme = "hello-friend"
+
+# Subtitle for home
+homeSubtitle = "A simple and beautiful blog"
+defaultTheme = "dark"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
