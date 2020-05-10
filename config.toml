@@ -1,12 +1,18 @@
-baseURL = "http://waaaaall.com/"
+baseURL = "https://waaaaall.com/"
 languageCode = "ja-jp"
 title = "waaaaallib"
-author = "waaaaall"
 description = "description"
 theme = "hugo-theme-hello-friend-ng"
+absLangURL = "tes"
 
 # Subtitle for home
 homeSubtitle = "A simple and beautiful blog"
 defaultTheme = "dark"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[Author]
+  name = "waaaaall"
+  homepage = "https://waaaaall.com/"
+  mainTwitter = "https://twitter.com/good_wall"
+  techTwitter = "https://twitter.com/_waaaaall"
