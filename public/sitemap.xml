@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://waaaaall.com/sample/</loc>
+    <lastmod>2020-05-09T04:12:42+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://waaaaall.com/</loc>
+    <lastmod>2020-05-09T04:12:42+09:00</lastmod>
   </url>
   
 </urlset>
