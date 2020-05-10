@@ -3,7 +3,7 @@ languageCode = "ja-jp"
 title = "waaaaallib"
 author = "waaaaall"
 description = "description"
-theme = "hello-friend"
+theme = "hugo-theme-hello-friend-ng"
 
 # Subtitle for home
 homeSubtitle = "A simple and beautiful blog"
