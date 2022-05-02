@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>waaaaallib</title>
-    <link>http://waaaaall.com/</link>
-    <description>Recent content on waaaaallib</description>
+    <title>waaaaall</title>
+    <link>https://waaaaall.com/</link>
+    <description>Recent content on waaaaall</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-jp</language>
-    <lastBuildDate>Sat, 09 May 2020 04:12:42 +0900</lastBuildDate>
-    
-	<atom:link href="http://waaaaall.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ja-jp</language><atom:link href="https://waaaaall.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sample</title>
-      <link>http://waaaaall.com/sample/</link>
+      <link>https://waaaaall.com/sample/</link>
       <pubDate>Sat, 09 May 2020 04:12:42 +0900</pubDate>
       
-      <guid>http://waaaaall.com/sample/</guid>
+      <guid>https://waaaaall.com/sample/</guid>
       <description>Test </description>
     </item>
     
