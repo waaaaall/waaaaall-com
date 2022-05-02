@@ -4,6 +4,7 @@ title = "waaaaall"
 description = "description"
 theme = "hugo-theme-hello-friend-ng"
 absLangURL = "tes"
+copyright = "©2022 waaaaall"
 
 # Subtitle for home
 homeSubtitle = "A simple and beautiful blog"
