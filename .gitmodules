@@ -1,3 +1,9 @@
 [submodule "themes/hugo-theme-hello-friend-ng"]
 	path = themes/hugo-theme-hello-friend-ng
 	url = https://github.com/waaaaall/hugo-theme-hello-friend-ng.git
+[submodule "themes/hugo.386"]
+	path = themes/hugo.386
+	url = https://gitlab.com/jmfergeau/hugo.386
+[submodule "themes/dark-theme-editor"]
+	path = themes/dark-theme-editor
+	url = https://github.com/JingWangTW/dark-theme-editor.git
