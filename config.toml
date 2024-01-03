@@ -10,8 +10,6 @@ copyright = "©2022 waaaaall"
 homeSubtitle = "A simple and beautiful blog"
 defaultTheme = "dark"
 
-disableKinds = ["taxonomy"]
-
 [params.author]
   name = "waaaaall"
   homepage = "https://waaaaall.com/"
