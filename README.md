@@ -55,6 +55,13 @@
    http://localhost:1313
    ```
 
+## Profileページのアクセス方法
+
+新しく追加されたProfileページにアクセスするには、以下のURLにアクセスしてください。
+```
+http://localhost:1313/profile/
+```
+
 ## 注意点
 - ファイルの変更は自動的に反映されます
 - Windows環境ではPowerShellを管理者として実行する必要がある場合があります

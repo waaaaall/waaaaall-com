@@ -16,7 +16,12 @@ defaultTheme = "dark"
   mainTwitter = "https://twitter.com/good_wall"
   techTwitter = "https://twitter.com/_waaaaall"
 
-[[menu.man]]
+[[menu.main]]
 name = "About"
-url = "/abuot/"
+url = "/about/"
 weight = 1
+
+[[menu.main]]
+name = "Profile"
+url = "/profile/"
+weight = 2
