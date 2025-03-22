@@ -1,22 +1,58 @@
 baseURL = "https://waaaaall.com/"
 languageCode = "ja-jp"
-title = ""
-description = "description"
+title = "…"
 theme = "hugo-theme-hello-friend-ng"
-absLangURL = "tes"
-copyright = "©2025 waaaaall"
+defaultContentLanguage = "ja"
 
-# Subtitle for home
-homeSubtitle = "A simple and beautiful blog"
-defaultTheme = "dark"
+# Disable taxonomies
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
-[params.author]
-  name = "waaaaall"
-  homepage = "https://waaaaall.com/"
-  mainTwitter = "https://twitter.com/good_wall"
-  techTwitter = "https://twitter.com/_waaaaall"
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
-[[menu.man]]
-name = "About"
-url = "/abuot/"
-weight = 1
+  # Subtitle for home
+  homeSubtitle = "loading…"
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+
+  # Author settings
+  [params.author]
+    name = "waaaaall"
+    homepage = "https://waaaaall.com/"
+    mainTwitter = "https://twitter.com/good_wall"
+    techTwitter = "https://twitter.com/_waaaaall"
+
+[languages]
+  [languages.ja]
+    title = ""
+    subtitle = "loading…"
+    keywords = ""
+    copyright = "©2025 waaaaall"
+    readOtherPosts = "他の記事を読む"
+    weight = 1
+
+    [languages.ja.params.logo]
+      logoText = " "
+      logoHomeLink = "/"
+
+    [languages.ja.menu]
+      [[languages.ja.menu.main]]
+        identifier = "about"
+        name = "…"
+        url = "/about"
+        weight = 1
