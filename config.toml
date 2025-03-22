@@ -36,11 +36,24 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     homepage = "https://waaaaall.com/"
     mainTwitter = "https://twitter.com/good_wall"
     techTwitter = "https://twitter.com/_waaaaall"
+  
+  # Social
+  [[params.social]]
+    name = "twitter"
+    url = "https://x.com/good_wall"
+
+  [[params.social]]
+    name = "instagram"
+    url = "https://www.instagram.com/_waaaaall/"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/waaaaall"
 
 [languages]
   [languages.ja]
     title = ""
-    subtitle = "loading…"
+    subtitle = ""
     keywords = ""
     copyright = "©2025 waaaaall"
     readOtherPosts = "他の記事を読む"
@@ -49,10 +62,3 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [languages.ja.params.logo]
       logoText = " "
       logoHomeLink = "/"
-
-    [languages.ja.menu]
-      [[languages.ja.menu.main]]
-        identifier = "about"
-        name = "…"
-        url = "/about"
-        weight = 1
