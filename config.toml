@@ -39,7 +39,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Social
   [[params.social]]
-    name = "twitter"
+    name = "X"
     url = "https://x.com/good_wall"
 
   [[params.social]]
